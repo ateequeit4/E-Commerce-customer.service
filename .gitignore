@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/customer.service/.vs/customer.service/v17
+/customer.service/customer.service.api/obj
