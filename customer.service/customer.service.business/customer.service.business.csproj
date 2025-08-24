@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\customer.service.entities\customer.service.entities.csproj" />
+    <ProjectReference Include="..\customer.service.helper\customer.service.helper.csproj" />
+    <ProjectReference Include="..\customer.service.repository\customer.service.repository.csproj" />
+  </ItemGroup>
+
 </Project>

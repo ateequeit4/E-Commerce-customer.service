@@ -9,3 +9,8 @@
 /customer.service/customer.service.entities/obj
 /customer.service/customer.service.helper/obj
 /customer.service/customer.service.repository/obj
+/customer.service/customer.service.api/bin/Debug/net8.0
+/customer.service/customer.service.business/bin/Debug/net8.0
+/customer.service/customer.service.entities/bin/Debug/net8.0
+/customer.service/customer.service.helper/bin/Debug/net8.0
+/customer.service/customer.service.repository/bin/Debug/net8.0
